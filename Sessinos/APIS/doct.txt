@@ -1,0 +1,4 @@
+{"Api_ID":"Api_Hash"}
+example : --> {"123456789":"abcdefghigklmnop123456789"}
+
+@Sardar_Cybery

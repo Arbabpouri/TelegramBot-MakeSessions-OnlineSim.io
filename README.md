@@ -6,7 +6,11 @@
 
 ## 🚀 Features
 
+![Admin Panel](./readme/admin_panel.png)
+![Buy Panel](./readme/buy_phone_number.png)
+
 - 📞 Purchase virtual numbers from onlinesim.io
+- 💰 Get balance
 - 🌍 Support for multiple countries
 - 🔄 Automatic creation of Telegram account sessions
 - ⚙️ Simple and user-friendly interface

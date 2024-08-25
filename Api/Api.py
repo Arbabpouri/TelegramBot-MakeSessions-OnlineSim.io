@@ -2,7 +2,7 @@ from requests import get
 
 class Request:
     def __init__(self) -> None:
-        self.APIKEY = "kNW4c429FQfe6Rx-uy4JPb2q-mh2a8wW6-L6vt7Pu7-brv1hmVMjw385Q4"
+        self.APIKEY = ""
         self.OPERATOR: str = "any"
         self.SERVICE: str = 'telegram'
 
